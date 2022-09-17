@@ -1,7 +1,7 @@
 # recomenda-anime
 // PT-BR
 
-Programa feito para manipulação de banco de dados em C++. Feito por Arthur Alves em colaboração com João Pedro Braun durante o período 2022/1 da UFRGS para o trabalho final de Classificação e Pesquisa de Dados, sob a tutela do professor Renan Maffei.
+Programa feito para manipulação de banco de dados em C++. Feito por João Pedro Kuhn Braun em colaboração com Arthur Alves durante o período 2022/1 da UFRGS para o trabalho final de Classificação e Pesquisa de Dados, sob a tutela do professor Renan Maffei.
 
 O programa utiliza de CSVs retirados do site MyAnimeList para a criação de um banco de dados armazenado em arquivos binários, de forma em que os dados persistem. São utilizadas árvores B+ para acesso de chaves inteiras e árvores TRIE para acesso de chaves em string. Também são feitos arquivos invertidos para o acesso de registros através de campos secundários.
 
